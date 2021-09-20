@@ -1,3 +1,5 @@
+//Given a array of numbers (integers), find second maximum and second minimum in this array
+
 import java.util.*;
 
 public class second_max_min
